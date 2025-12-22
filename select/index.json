@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Best Friend",
+  "base_artist": "西野カナ",
+  "createdAt": "2025-12-22T13:51:03.463524Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Best Friend",
+      "artist": "Rex Orange County",
+      "has_synced": true,
+      "path": "select/01_Best_Friend_Rex_Orange_County.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "My Best Friend",
+      "artist": "Tim McGraw",
+      "has_synced": true,
+      "path": "select/02_My_Best_Friend_Tim_McGraw.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "You're My Best Friend",
+      "artist": "Don Williams",
+      "has_synced": true,
+      "path": "select/03_You're_My_Best_Friend_Don_Williams.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "You're My Best Friend (Single Version)",
+      "artist": "Don Williams",
+      "has_synced": true,
+      "path": "select/04_You're_My_Best_Friend_(Single_Version)_Don_Williams.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "You're My Best Friend (Single Version)",
+      "artist": "Don Williams",
+      "has_synced": true,
+      "path": "select/05_You're_My_Best_Friend_(Single_Version)_Don_Williams.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "You're My Best Friend",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/06_You're_My_Best_Friend_Queen.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "My Best Friend",
+      "artist": "Die Antwoord feat. The Flying Dutchman a.k.a. Neo SA",
+      "has_synced": false,
+      "path": "select/07_My_Best_Friend_Die_Antwoord_feat._The_Flying_Dutchman_a.k.a._Neo_SA.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "My Best Friend (Feat. The Flying Dutchman aka Neo Sa)",
+      "artist": "Die Antwoord",
+      "has_synced": true,
+      "path": "select/08_My_Best_Friend_(Feat._The_Flying_Dutchman_aka_Neo_Sa)_Die_Antwoord.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Best Friend",
+      "artist": "Young Thug",
+      "has_synced": true,
+      "path": "select/09_Best_Friend_Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "She's My Best Friend",
+      "artist": "Lou Reed",
+      "has_synced": true,
+      "path": "select/10_She's_My_Best_Friend_Lou_Reed.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "She's My Best Friend (Alternate Version)",
+      "artist": "Lou Reed",
+      "has_synced": false,
+      "path": "select/11_She's_My_Best_Friend_(Alternate_Version)_Lou_Reed.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Best Friend",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/12_Best_Friend_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Diamonds Are a Girl's Best Friend",
+      "artist": "Marilyn Monroe",
+      "has_synced": true,
+      "path": "select/13_Diamonds_Are_a_Girl's_Best_Friend_Marilyn_Monroe.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Best Friend",
+      "artist": "Roy Orbison",
+      "has_synced": true,
+      "path": "select/14_Best_Friend_Roy_Orbison.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Demons Are A Girl's Best Friend (feat. Alissa White-Gluz)",
+      "artist": "Powerwolf feat. Alissa White-Gluz",
+      "has_synced": true,
+      "path": "select/15_Demons_Are_A_Girl's_Best_Friend_(feat._Alissa_White-Gluz)_Powerwolf_feat._Alissa_White-Gluz.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Demons Are A Girl's Best Friend",
+      "artist": "Powerwolf",
+      "has_synced": true,
+      "path": "select/16_Demons_Are_A_Girl's_Best_Friend_Powerwolf.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Demons Are a Girl's Best Friend",
+      "artist": "Powerwolf",
+      "has_synced": true,
+      "path": "select/17_Demons_Are_a_Girl's_Best_Friend_Powerwolf.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Best Friend (feat. Tory Lanez)",
+      "artist": "A Boogie Wit da Hoodie feat. Tory Lanez",
+      "has_synced": true,
+      "path": "select/18_Best_Friend_(feat._Tory_Lanez)_A_Boogie_Wit_da_Hoodie_feat._Tory_Lanez.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Best Friend",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_01_Best_Friend_西野_カナ.txt"
+    }
+  ]
+}
